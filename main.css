@@ -1,1 +1,73 @@
 
+body{
+    background-color:#ddd;
+    text-align: center;
+    font-size: 40px;
+
+    font-weight: 900;
+    
+    text-align: center;
+
+    
+    background-color:;
+
+ 
+}
+.ridha {
+    width: 1560px;
+    height: 89vh;
+    bottom: 50vh;
+    
+    background-image: url(ridha.jpg);
+    
+
+    background-size: 100%;
+    text-align: center;
+
+    
+   
+
+}
+div:nth-of-type(2){
+    
+
+text-align:center;
+    display: block;
+
+    color:#ddd;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    bottom: 10vh;
+    top: 00vh;
+    left: 0vw;
+    width: ;
+    height: 15vh;
+    background-color: #808080;
+}
+
+a{
+
+display: block;
+text-align: center;
+color: #814;
+font-size: 20px;
+
+}
+
+a{
+    white-space:pre-line;
+    color: black;
+    background-color;
+    text-decoration: none;
+    font-weight:700;
+}
+.home{
+    background-color:iolet;
+    position: fixed;
+    top: 0%;
+    right: 0;
+    font-size: 48px;
+    color: #4
+
+}
+
